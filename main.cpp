@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Using git" << std::endl;
+    std::cout << "Using git. Testing" << std::endl;
 
     return 0;
 }
